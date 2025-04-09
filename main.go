@@ -13,7 +13,7 @@ func main() {
 	botToken := "tockenBot"
 
 	// Заменить на ID вашей группы (например: -1001234567890)
-	groupID := int64(-4649501738)
+	groupID := int64(-GID)
 
 	pref := telebot.Settings{
 		Token:  botToken,
