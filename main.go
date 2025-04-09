@@ -10,7 +10,7 @@ import (
 
 func main() {
 	// Заменить на свой токен от BotFather
-	botToken := "8124544722:AAFKfPubVRrVWeeVVffF3dYyuFIkySLvEfQ"
+	botToken := "tockenBot"
 
 	// Заменить на ID вашей группы (например: -1001234567890)
 	groupID := int64(-4649501738)
